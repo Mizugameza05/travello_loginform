@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started<img width="1287" height="832" alt="figma" src="https://github.com/user-attachments/assets/42304e1c-8fd7-4bda-bb8f-45eaa54e202c" />
+
 
 This project is a starting point for a Flutter application.
 
